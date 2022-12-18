@@ -3,7 +3,7 @@
 
 Для запуска на Windows нужно прописть команду .\makefile 
 
-[image](https://user-images.githubusercontent.com/70647725/208322821-8b050794-07d5-491a-86f1-04d54c9797ee.png)
+![image](https://user-images.githubusercontent.com/70647725/208322821-8b050794-07d5-491a-86f1-04d54c9797ee.png)
 
 Работает на Linux
 
