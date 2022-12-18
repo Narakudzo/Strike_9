@@ -195,7 +195,10 @@ int line950(int *A){
     printf("THERE ARE %d",T);
     printf(" NUMBERS LEFT ON THE BOARD:   ");
     for (int X = 1; X < 10; X++){
-        printf("%d",A[X-1]);
+        if(A[X-1]!=0){
+           printf("%d ",A[X-1]); 
+        }
+        
     }
     printf("\n");
     printf("WANT TO TRY AGAIN (YES OR NO)\n");
